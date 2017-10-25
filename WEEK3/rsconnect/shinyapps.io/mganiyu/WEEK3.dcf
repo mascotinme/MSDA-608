@@ -1,0 +1,13 @@
+name: WEEK3
+title: WEEK3
+username:
+account: mganiyu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224560
+bundleId: 1023448
+url: https://mganiyu.shinyapps.io/WEEK3/
+when: 1507821413.89218
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Ganiyu_Musa_5_hw2.pdf|server2._R|server2.R

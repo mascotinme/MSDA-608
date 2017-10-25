@@ -1,0 +1,63 @@
+---
+title: "|IS 608: KNOWLEDGE & VISUAL ANALYTICS - PROJECT PROPOSAL\n|  Data Analytics
+  \ \n"
+author: ' Author:MUSA T GANIYU'
+date: "Oct. 20th, 2017"
+output:
+  html_document:
+    code_folding: hide
+    fig_caption: yes
+    fig_height: 9
+    fig_width: 9
+    highlight: tango
+    keep_md: yes
+    theme: cerulean
+    toc: yes
+    toc_depth: 2
+    toc_float:
+      collapsed: yes
+      number_sections: yes
+      smooth_scroll: no
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  word_document:
+    toc: yes
+    toc_depth: '2'
+---
+
+
+
+##Aim: 
+The goal of this project is to:
+
+*	Show the merit and demerit of visual analytics on data analysis, and how to improve it.
+*	Make the graphical image(s) tells the story in an unambiguous way, understandable to a layman!
+*	Apply the knowledge learned in class to real live situation.
+
+
+##Methodology:
+
+The project would lay more emphasis on the explanatory techniques. It will be used in making data presentation to the viewers in a more succinct way. I therefore plan to use the R programing language to explore and analysis the dataset.
+  
+The dataset to be used is the January 2017 of the New York City flight dataset. This can be obtained from https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236 .  
+
+## Tools To Be Use:
+
+* Rshiny
+* Plotly
+
+## Packages To Be Use:
+
+* Plotly
+* Knitr
+* Dplyr
+* Plyr
+* Reshape2
+* Ggplot2
+* Graphics
+* Ggthemes
+* Shiny
+* Shinydashboard
+ etc
+
